@@ -1,0 +1,4 @@
+SigProfilerMatrixGenerator
+pyarrow
+fastparquet
+SigProfilerAssignment
