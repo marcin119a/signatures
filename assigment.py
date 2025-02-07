@@ -4,6 +4,6 @@ Analyze.cosmic_fit('data/genomic_mutations', 'data/signatures',
                    context_type="96",
                    collapse_to_SBS96=True, cosmic_version=3.4, exome=False,
                    genome_build="GRCh38", signature_database=None,
-                   exclude_signature_subgroups=None, export_probabilities=False,
+                   exclude_signature_subgroups=None, export_probabilities=True,
                    export_probabilities_per_mutation=True, make_plots=False,
                    sample_reconstruction_plots=False, verbose=False)
